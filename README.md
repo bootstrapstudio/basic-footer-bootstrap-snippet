@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Responsive footer snippet** made with Bootstrap 4. It is fully responsive and features a super simple layout that can be quickly extended and customized without getting in the way. Includes social media icons by [Ionicons](https://ionicons.com/), page links, and website info. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/footer-basic)
+**Responsive footer snippet** made with Bootstrap 4. It is fully responsive and features a super simple layout that can be quickly extended and customized without getting in the way. Includes social media icons by [Ionicons](https://ionicons.com/), page links, and website info. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Basic FooterArticle Clean Banner](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/footer-basic) 
+[![Basic FooterArticle Clean Banner](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
